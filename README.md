@@ -3,3 +3,4 @@ This README file contains information about my uploaded assignments
 Update 1: Added my name.
 Update 2: Class & section info.
 Update 3: Why I’m taking this course.
+Update 4: My OS (macOS/Windows/Linux).
