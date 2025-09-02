@@ -10,3 +10,4 @@ Update 7: Favorite dataset ideas.
 Update 8: Goals for the semester.
 Update 9: Something I learned today.
 Update 10: Done making 10 commits.
+YIURUYRUYIRIUYIIYUIRUY.
