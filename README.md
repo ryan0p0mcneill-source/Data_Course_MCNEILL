@@ -6,3 +6,4 @@ Update 3: Why I’m taking this course.
 Update 4: My OS (macOS/Windows/Linux).
 Update 5: Installed tools (R, RStudio, Git).
 Update 6: My GitHub username.
+Update 7: Favorite dataset ideas.
